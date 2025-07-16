@@ -1,0 +1,10 @@
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+
+
+# data
+data/
